@@ -1,0 +1,23 @@
+//installation
+sudo apt-get update
+sudo apt-get install git
+
+Created the folder
+chnaged the working directory new folder
+git init
+git config --global user.name "Antosh Dyade"
+git config --global user.email "antosh@dyade.in"
+create the files
+git add filename
+git status
+git commit -m "message"
+git log
+
+
+GitHub
+
+Created the account
+created Token Setting --> Developer--Create Clasic Token
+
+git remote add a3 githuburl
+git push a3 master
